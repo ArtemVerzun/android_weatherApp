@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="logo">Погода в любом городе</string>
+    <string name="hint_user_tilt">Введите город</string>
+    <string name="main_btn">Узнать погоду</string>
+    <string name="data_input">Введите город</string>
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="location_settings">Location settings</string>
+    <string name="myAlphaNumeric">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+</resources>
